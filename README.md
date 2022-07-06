@@ -1,6 +1,6 @@
 # demo
 
-https://vuetify-calculator.vercel.app/
+https://vuejs-vuetify-todo-project.vercel.app/
 
 # todo
 
