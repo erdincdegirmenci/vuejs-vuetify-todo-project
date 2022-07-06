@@ -1,3 +1,7 @@
+# demo
+
+https://vuetify-calculator.vercel.app/
+
 # todo
 
 ## Project setup
